@@ -243,32 +243,6 @@ Examples include:
 
 ---
 
-# 📷 Dashboard Preview
-
-## Executive Dashboard
-
-> *(Insert Screenshot Here)*
-
----
-
-## Product Performance Dashboard
-
-> *(Insert Screenshot Here)*
-
----
-
-## Customer & Geographic Dashboard
-
-> *(Insert Screenshot Here)*
-
----
-
-## Regional & Store Performance Dashboard
-
-> *(Insert Screenshot Here)*
-
----
-
 # 💡 Key Business Insights
 
 - Computers generated the highest revenue among all product categories.
